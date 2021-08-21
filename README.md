@@ -5,4 +5,4 @@
   - Created methods to perform basic mathematic operations.
   
 ## Test
-  - Test by running Fibonacci sequence
+  - Test by running Fibonacci sequence up to fib(3000).

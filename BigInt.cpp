@@ -4,10 +4,6 @@
 #include <iostream>
 
 using namespace std;
-// Jimmy Truong
-// CECS 282-05
-// Prog 5- Standard Template Library(STL)
-// 11/21/19
 vector<char> v;
 
 BigInt::BigInt() {
